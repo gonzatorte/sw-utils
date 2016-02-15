@@ -2,11 +2,11 @@
 
 Algunos modulos incluyen
 
-1. Un TAD de diccionario ordenado y multiset
-2. Un profiler
-3. Un sistema de logeo
-4. Un sistema de lectura de configuraciones
-5. Una interfaz común de llamadas remotas
---Servidor/Cliente TCP/UDP
--Un sistema de locking distribuido
+* Un TAD de diccionario ordenado y multiset
+* Un profiler
+* Un sistema de logeo
+* Un sistema de lectura de configuraciones
+* Una interfaz común de llamadas remotas
+	* Servidor/Cliente TCP/UDP
+* Un sistema de locking distribuido
 
